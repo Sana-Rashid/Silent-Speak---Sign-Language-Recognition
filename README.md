@@ -6,16 +6,17 @@ SilentSpeak is a sign language recognition project using Python libraries like O
 
 ### Requirements
 
-* Python 3.7 or later (**recommended: 3.10**) - Download from `https://www.python.org/downloads/`
-* OpenCV-Python (`pip install opencv-python`)
-* MediaPipe (`pip install mediapipe`)
-* Scikit-learn (`pip install scikit-learn`)
+* Python 3.7 or later **recommended: 3.10** - Download from `https://www.python.org/downloads/`
+* OpenCV-Python `pip install opencv-python`
+* MediaPipe `pip install mediapipe`
+* Scikit-learn `pip install scikit-learn`
 
 ### Installation
 
 1. **Install Python:** Ensure you have Python 3.7 or later installed. You can download it from the official Python website.
 2. **Create Virtual Environment (Recommended):** A virtual environment isolates project dependencies, preventing conflicts with other Python installations. Use tools like `venv` or `conda` for creation.
 3. **Install Required Libraries:** Activate the virtual environment (if created) and install the required libraries.
+
 
 ### ASL
 
